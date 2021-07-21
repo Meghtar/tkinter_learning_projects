@@ -4,3 +4,5 @@ Git repository to stash projects created during learning **tkinter**
 
 ### List of projects:
  - Hello World
+ - Calculator
+ - Unit Converter
